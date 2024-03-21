@@ -1,1 +1,1 @@
-Code created inspired by: https://www.youtube.com/@usandopython
+Code inspired by: https://www.youtube.com/@usandopython
