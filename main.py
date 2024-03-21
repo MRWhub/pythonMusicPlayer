@@ -126,7 +126,6 @@ def anteriorMusic():
 
 
 #configurando o div_direira
-lista =["julia","amor","te amo","julia","amor","te amo","julia","amor","te amo","julia","amor","te amo"]
 listbox = Listbox(div_direita,width=22,height=10,selectmode=SINGLE,font=('arial 10 bold'),bg=Dark_Turquoise,fg=preto)
 listbox.grid(row=0,column=0)
 scButton = Scrollbar(div_direita)
