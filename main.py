@@ -211,7 +211,7 @@ buttom_down.place(x=10,y=240)
 
 #lidando com a musica
 
-os.chdir(r'C:\Users\Miguel\PycharmProjects\pythonMusicPlayer\Music')
+os.chdir(r'C:\Users\Miguel\PycharmProjects\pythonMusicPlayer\Music') # local path to my musics directory
 musicas = os.listdir()
 
 def mostrar():
